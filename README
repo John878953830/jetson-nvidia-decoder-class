@@ -1,0 +1,7 @@
+ENV:
+jetson multimedia api pack
+opencv
+COMPILE
+please replace your path in CMakeLists.txt, then:
+cmake .
+make
